@@ -1,6 +1,6 @@
 # Professional Certification: Data Analyst in Power BI
 
-![Certificate](Data Analyst in Power BI.PNG)
+![Certificate](Data%20Analyst%20in%20Power%20BI.png)
 
 ## 📌 Track Overview
 I have successfully completed the **Data Analyst in Power BI** professional track on **DataCamp**. This intensive **50-hour** program is designed to build a career-ready skill set, covering the entire data analysis workflow from data discovery to sharing insights.
